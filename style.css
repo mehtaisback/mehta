@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(img/djhfgbdljfgvbjsdfgbljfg.png);
+  
+}
+.des{
+    color: white;
+} 
+
+.profile_img{
+    width: 150px;
+    height: 150px;
+    border-radius: 1500px;
+}
+.social_icon{
+    color: white;
+    list-style: none;
+    justify-content: space-around;
+    display: flex;
+}
+
+.t_img
+{
+    width: 200px;
+    height: 80px;
+    border-radius: 16px;
+}
+
+.social_icon ul,li{
+    /* display: inline-block;
+    justify-content: space-evenly; */
+    margin-right: 20px;
+
+}
+
+.soical_sec{
+    padding-top: 380px;
+}
+
+.title_m
+{
+    color: white;
+    margin-top: 20px;
+}
+
+.main_top
+{
+    color: white;
+    background-color: #D92C54;
+}
+.mr{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
