@@ -4,7 +4,9 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(djhfgbdljfgvbjsdfgbljfg.png);
+    background-image: url(img/djhfgbdljfgvbjsdfgbljfg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
   
 }
 .des{
@@ -38,7 +40,7 @@ body{
 }
 
 .soical_sec{
-    padding-top: 380px;
+    padding-top: 280px;
 }
 
 .title_m
